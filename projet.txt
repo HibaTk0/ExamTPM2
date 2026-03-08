@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ligne 1 version main
+=======
+Ligne 1 version feature
+>>>>>>> feature-calcul
