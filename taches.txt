@@ -1,6 +1,5 @@
 
 3.realisation des tests unitaires et mise a jour de la documentation technique
 1- Conception et implémentation de nouvelles fonctionnalités selon les spécifications définies.
-journalj1
 4- Participation aux réunions techniques et aux revues de code avec l’équipe.
 5- Intégration et déploiement de l’application dans l’environnement de test ou de production.
