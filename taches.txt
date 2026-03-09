@@ -1,0 +1,1 @@
+2.correction de bug et optimisation du code pour améliorer les perfermances
