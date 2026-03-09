@@ -1,1 +1,1 @@
-conception et implementation de nouvelle fonctionnalités selon les specification definit 
+1- Conception et implémentation de nouvelles fonctionnalités selon les spécifications définies.
