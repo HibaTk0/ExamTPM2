@@ -1,4 +1,10 @@
+def produit(T):
+    S=0
+    for i in T:
+        S+=i
+    return S
 
-def produit(T):\n    S=0\n    for i in T:\n        S+=i\n    return S
-
-Data=[1,3,5]\nProd=math.prod(Data)\nprint('le produit est :', Prod)
+Data=[1,3,5]
+print('le produit est :', produit(Data))
+print('le min est :', min(Data))
+print('le max est :', max(Data))
